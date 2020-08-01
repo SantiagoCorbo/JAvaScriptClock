@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+.clock {
+    background-color: black;
+    color: seagreen;
+    font-size: 5rem;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.container{
+   /* background-color: seagreen;*/
+    padding: 5px;
+    margin: auto;
+    width: 28rem; 
+}
